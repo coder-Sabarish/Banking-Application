@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/postgresql-42.5.1.jar
+/.idea/shelf/
+/.idea/workspace.xml
